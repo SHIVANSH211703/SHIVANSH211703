@@ -1,169 +1,140 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Shivansh Rai
-
-### Node.js Backend & Full-Stack (MERN) Developer
-
-Node.js • Express • REST APIs • MongoDB • React • AI Agents • MCP • Automation
-
-<img src="https://komarev.com/ghpvc/?username=SHIVANSH211703&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="[https://raw.githubusercontent.com/SHIVANSH211703/SHIVANSH211703/main/banner.svg](https://chatgpt.com/backend-api/estuary/content?id=file_0000000097c481fda474ca63c4584a85&ts=497388&p=fs&cid=1&sig=f4be7071dcec4d0a1f10c4014a62d1c6f78404727abf223d96530c63c1e12c22&v=0)" alt="Shivansh Rai - Node.js Backend & Full-Stack Developer" width="100%"/>
 
 </div>
 
----
+<h3 align="center">Hi 👋, I'm Shivansh Rai</h3>
+<p align="center">Node.js Backend & Full-Stack (MERN) Developer | REST APIs • Automation • AI Agents • MCP</p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHIVANSH211703&label=Profile%20views&color=2dd4bf&style=flat" alt="profile views" />
+</p>
 
-- 💻 Node.js Backend & Full-Stack (MERN) Developer
-- 🔧 Focused on Node.js, Express.js, REST APIs and MongoDB
-- 🤖 Working with AI Agents, LLM-driven automation and MCP
-- ⚡ Designed and deployed 300+ automation workflows
-- 🔌 Integrated 100+ third-party REST APIs
-- 🔗 Experienced with n8n, Zapier and viaSocket
-- 🌱 Interested in scalable backend systems, APIs and automation
-- 📍 Indore, India
+- 💻 Software Developer with hands-on experience in **Node.js, Express.js, React, MongoDB and REST APIs**
+- ⚡ Designed and deployed **300+ automation workflows** using n8n, Zapier and viaSocket
+- 🔌 Built plugins by integrating **100+ third-party REST APIs** into automation platforms
+- 🤖 Worked with **AI Agents, LLM-driven automation and Model Context Protocol (MCP)**
+- 🔧 Experienced in **API integration, webhooks, authentication, middleware and backend systems**
+- 📍 Based in **Indore, India**
+- ⚡ Fun fact: **I enjoy connecting APIs, automation and AI to build practical workflows.**
 
----
+<p align="left">
+  <a href="https://raw.githubusercontent.com/SHIVANSH211703/SHIVANSH211703/main/Shivansh_Rai_Resume_NodeJS.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-000000?style=for-the-badge&logo=readdotcv&logoColor=4ade80&labelColor=000000&color=0a3d1e" alt="Download Resume"/>
+  </a>
+</p>
 
-## 💼 Professional Experience
+<h3 align="left">Connect with me:</h3>
 
-### Software Developer — Walkover Web Solution
+<p align="left">
 
-**viaSocket Product Team | May 2025 – Aug 2026**
+<a href="https://linkedin.com/in/shivansh-rai-06669b280" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-- Worked across the MERN stack on viaSocket and Gtwy.ai
-- Integrated React frontend features with Node.js/Express REST APIs
-- Built and maintained the viaSocket Embed experience
-- Worked with AI Agents, LLM-driven automation and MCP
-- Designed and deployed 300+ production automation workflows
-- Built plugins by integrating 100+ third-party REST APIs
-- Worked with webhooks, API contracts and authentication flows
-- Improved user flows, integration stability and UI/API interactions
+<a href="https://github.com/SHIVANSH211703" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+</a>
 
----
+<a href="mailto:raishivansh09@gmail.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
+</a>
 
-## 🛠️ Tech Stack
+</p>
 
-### Backend
+<h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="left">
 
-### Frontend
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
 
-### Database
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 
-### Tools
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
 
-### Automation & AI
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
 
-`AI Agents` `MCP` `n8n` `Zapier` `viaSocket` `Webhooks` `REST APIs`
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
 
----
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
 
-## 🚀 Featured Projects
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
 
-### 🍔 Food Ordering Website
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
+</a>
 
-**React • JavaScript • Node.js • Express • MongoDB**
+<a href="https://zapier.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/zapier" alt="zapier" width="40" height="40"/>
+</a>
 
-- Full-stack responsive food ordering and checkout application
-- REST APIs for menu retrieval, restaurants and order management
-- MongoDB schemas for menus, restaurants and orders
-- Modular route → controller → model architecture
-- Dynamic pricing and cart/checkout state management
+</p>
 
-### 🚕 QuickRide — Taxi Booking Platform
+<h3 align="left">Automation & AI:</h3>
 
-**HTML • CSS • JavaScript • Node.js • Express • MongoDB**
+<p align="left">
 
-- Taxi booking platform with separate rider and driver interfaces
-- REST APIs for ride booking and driver availability
-- MongoDB models for users, drivers and bookings
-- Mobile-first frontend architecture
-- Backend-driven application flow
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
 
----
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
 
-## ⚡ Automation & Integration
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
-| Area | Experience |
-|---|---|
-| Automation Workflows | 300+ |
-| REST API Integrations | 100+ |
-| AI | AI Agents + LLM Automation |
-| Protocol | Model Context Protocol (MCP) |
-| Automation | n8n + Zapier + viaSocket |
-| APIs | REST APIs + Webhooks |
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
----
+<img src="https://img.shields.io/badge/viaSocket-0A3D1E?style=for-the-badge&logoColor=white" alt="viaSocket"/>
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logoColor=white" alt="REST APIs"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logoColor=white" alt="Webhooks"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHIVANSH211703&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+<h3 align="left">What I Build:</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVANSH211703&theme=tokyonight&hide_border=true" />
+<p align="left">
 
-</div>
+🔹 <b>Backend Systems</b> — Node.js, Express.js, REST APIs & MongoDB<br>
 
----
+🔹 <b>Automation</b> — n8n, Zapier, viaSocket & webhook-based workflows<br>
 
-## 📈 Contribution Activity
+🔹 <b>API Integrations</b> — Third-party REST APIs, authentication & data flows<br>
 
-<div align="center">
+🔹 <b>AI Automation</b> — AI Agents, LLM-driven workflows & MCP<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVANSH211703&theme=github-compact&hide_border=true" />
+🔹 <b>Full-Stack Applications</b> — React + Node.js + MongoDB
 
-</div>
+</p>
 
----
+<h3 align="center">Contribution Activity</h3>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHIVANSH211703&theme=flat&no-frame=true&margin-w=10" />
-
-</div>
-
----
-
-## 📄 Resume
-
-[![Download Resume](https://img.shields.io/badge/RESUME-DOWNLOAD-0F5132?style=for-the-badge&logo=readme&logoColor=white)](./Shivansh_Rai_Resume_NodeJS.pdf)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Rai-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivansh-rai-06669b280)
-
-[![Email](https://img.shields.io/badge/Email-raishivansh09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raishivansh09@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-SHIVANSH211703-black?style=for-the-badge&logo=github)](https://github.com/SHIVANSH211703)
-
----
-
-## 🎯 Currently
-
-```text
-Backend Development
-        ↓
-Node.js + Express
-        ↓
-REST APIs + MongoDB
-        ↓
-Automation + Webhooks
-        ↓
-AI Agents + MCP
-        ↓
-Scalable Integrations
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHIVANSH211703/SHIVANSH211703/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+</p>
