@@ -117,7 +117,7 @@ Node.js Backend & Full-Stack (MERN) Developer | REST APIs • Automation • AI 
 <p align="left">
 
 <b>Software Developer — Walkover Web Solution</b><br/>
-ViaSocket Product Team · Indore · May 2025 – Aug 2026
+ViaSocket Product Team · Indore · May 2025 – Present
 
 </p>
 
